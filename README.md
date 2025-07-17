@@ -1,5 +1,7 @@
 # Level Design P3: _Fungal Forest_
 
+_A fan-made Spyro level set in a glowing underground forest filled with secrets, puzzles, and vertical challenges._
+
 This project presents a **custom level for the classic _Spyro the Dragon_** series, designed as if it were part of an official game expansion. Inspired by the original trilogy, the goal is to analyze and reinterpret Spyro’s level design principles while introducing a fresh, yet faithful, gameplay experience.
 
 ---
@@ -54,6 +56,12 @@ Includes a mix of new creatures and familiar foes with redesigned behaviors. Eac
 ---
 
 ## 📷 Screenshots
-<img width="1908" height="872" alt="3  Fungal-Forest Perspective2" src="https://github.com/user-attachments/assets/7d9f1f11-67cc-4d15-a4ae-7eae046d4c5e" />
-<img width="1910" height="866" alt="2  Fungal-Forest Perspective1" src="https://github.com/user-attachments/assets/fec75d27-5c7e-4026-9e0f-aae0a4a1fbf1" />
-<img width="1152" height="863" alt="1  Fungal-Forest Top" src="https://github.com/user-attachments/assets/b7f10685-31e8-49c7-891f-bce42866ad24" />
+
+### 🔝 Top View  
+<img width="1152" height="863" alt="Fungal-Forest Top View" src="https://github.com/user-attachments/assets/b7f10685-31e8-49c7-891f-bce42866ad24" />
+
+### 🧭 Perspective View #1  
+<img width="1910" height="866" alt="Fungal-Forest Perspective 1" src="https://github.com/user-attachments/assets/fec75d27-5c7e-4026-9e0f-aae0a4a1fbf1" />
+
+### 🌌 Perspective View #2  
+<img width="1908" height="872" alt="Fungal-Forest Perspective 2" src="https://github.com/user-attachments/assets/7d9f1f11-67cc-4d15-a4ae-7eae046d4c5e" />
