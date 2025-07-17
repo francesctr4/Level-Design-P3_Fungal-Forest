@@ -15,7 +15,7 @@ Design a new level that:
 
 ## 🌱 Concept Overview
 
-**Level Theme:** _Bioluminescent Hollow_  
+**Level Theme:** _Fungal Forest_  
 A mysterious, underground mushroom forest filled with glowing fungi and crystalline caves. This bioluminescent biome, largely unexplored in the original games, serves as a rich and atmospheric setting.
 
 **Visual Style:**
