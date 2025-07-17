@@ -6,7 +6,7 @@ This project presents a **custom level for the classic _Spyro the Dragon_** seri
 
 ## 🎯 Project Objective
 
-To design a new level that:
+Design a new level that:
 - Stays true to Spyro's core mechanics and structure.
 - Introduces new environmental themes and gameplay elements.
 - Demonstrates a deep understanding of the original level design through analysis and creative reinterpretation.
